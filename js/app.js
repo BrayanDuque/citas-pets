@@ -37,9 +37,8 @@ const crear = (e)=>{
             <div><b>Mascota:</b> ${mascota} </div>
             <div><b>Edad:</b> ${edad}</div>
             <div><b>Especie: </b> ${especie}</div>
-            <div><b>Raza: </b> ${raza}
-            
-            <b>Motivo</b> ${texto}
+            <div><b>Raza: </b> ${raza} </div>
+            <div><b>Motivo</b> ${texto} </div>
         </div>
         `
 }
