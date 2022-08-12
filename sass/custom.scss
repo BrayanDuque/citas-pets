@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+.fondo-pantalla{
+    background-image: url("../assets/fondo-pantalla.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
